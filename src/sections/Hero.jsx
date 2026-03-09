@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="absolute top-1/2 left-1/4 w-24 h-24 bg-custom-blue/4 rounded-full blur-2xl" />
       </div>
 
-      <div className="relative z-10 grid grid-cols-1 lg:grid-cols-2 items-center gap-10 max-w-7xl mx-auto">
+      <div className="relative z-10 grid grid-cols-1 lg:grid-cols-2 items-center gap-10">
         {/* Left Content */}
         <div className="text-center lg:text-left space-y-8">
           <div className="space-y-6">
