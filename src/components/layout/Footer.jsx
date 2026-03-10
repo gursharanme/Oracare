@@ -105,7 +105,7 @@ const Footer = () => {
         <p>
           Developed by{" "}
           <a
-            href="https://github.com/gursharanme"
+            href="https://github.com/gursharanme/oracare"
             target="_blank"
             rel="noopener noreferrer"
             className="text-custom-blue hover:underline"
